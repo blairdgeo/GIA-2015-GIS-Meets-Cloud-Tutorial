@@ -12,9 +12,9 @@ quickly deploy your application.  Key reasons to do so:
                 Markdown is a lightweight markup language based on the
                 formatting conventions that 
 
-                This text you see here is *actually* written in Markdown! To get
-                a feel for Markdown's syntax, type some text into the left
-                window and watch the results in the right.
+This text you see here is *actually* written in Markdown! To get
+a feel for Markdown's syntax, type some text into the left
+window and watch the results in the right.
 
                 ###  Pre-requisites
                   - [S3CMD - Mac/Linux](https://github.com/s3tools/s3cmd)
