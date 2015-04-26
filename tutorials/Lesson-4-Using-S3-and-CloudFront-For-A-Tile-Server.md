@@ -1,6 +1,8 @@
 #Step 1 Create Tile Package in ArcGIS Desktop (or ArcGIS Server)
   Tip: Enable runtime in GIS options
   ##Create Tile Package 
+  
+  *Do we mention here that an AWS AMI could also do the processing for you, if for example you used gdal to make tiles and put in S3 bucket, or just not worry about it?*
 
 #Step 2 Upload Tile Package to S3 (create an AWS account) - talk about free account/costs here?
   
@@ -18,7 +20,7 @@
 
 ##Find ESRI JS API example, would like to use swipe map with two versions of Pierce County LiDARto illustrate changes 2002/2010 
 
-can we use this widget? [Layer Swipe](https://developers.arcgis.com/javascript/jssamples/widget_swipe.html)
+can we use this widget? [Layer Swipe](https://developers.arcgis.com/javascript/jssamples/widget_swipe.html) *need to edit html below to work with example*
 
 ```html
 <!DOCTYPE HTML>
