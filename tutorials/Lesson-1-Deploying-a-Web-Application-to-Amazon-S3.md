@@ -6,6 +6,8 @@ This tutorial will walk you through the steps necessary to set up and deploy a E
 
 ## Why would I want to use S3 hosting rather than my own server?
 
+* [Pennies a month!](http://aws.amazon.com/s3/pricing/)
+
 
 
 You can use Amazon S3 buckets to host simple web applications that <b>do not require</b>:
