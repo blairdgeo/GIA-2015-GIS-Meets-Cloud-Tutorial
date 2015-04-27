@@ -15,6 +15,10 @@ You can use Amazon S3 buckets to host simple web applications that <b>do not req
 * ArcGIS.com Account
 * Amazon AWS Account
 
+## Step 1 - Setup ArcGIS Webmap
+
+
+
 
 ## Resources
 
