@@ -12,7 +12,6 @@ This tutorial will walk you through the steps necessary to set up and deploy a E
 * Application Server Side Code (.NET, Node.js, RoR, Java, PHP, and others)
 * Security
 * Load Balancing
-* High Transaction
 
 ## Pre-requisites
 
