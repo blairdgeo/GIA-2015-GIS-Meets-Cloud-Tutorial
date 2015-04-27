@@ -21,7 +21,10 @@ For the purpose of this tutorial we will be using Esri's geoform-template applic
 
 ### Step 1 - Clone [geoform-template-js](https://github.com/Esri/geoform-template-js) Web Application from [Esri's Github site](https://github.com/Esri).
 
+<p>This is a normal paragraph:</p>
 
+<pre><code>This is a code block.
+</code></pre>
 
 
 ## Resources
