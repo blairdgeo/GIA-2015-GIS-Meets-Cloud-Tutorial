@@ -27,12 +27,15 @@ For the purpose of this tutorial we will be using Esri's [geoform-template appli
 
 <b> Step 1 </b> - Follow the instructions outlined in the [deployment](https://github.com/Esri/geoform-template-js#deploying) section of the geoform-template-application to setup your local environment.
 
-<b> Step 2 </b> - Log into the Amazon EC2 Management Console.<br>
+<b> Step 2 </b> - Log into the Amazon EC2 Management Console<br>
 <br>
 <img src="../resources/aws_management_console.png"  alt="" />
 
 <b>NOTE:</b> You should never use your Root AWS credentials when signing into the Amazon Management Console.  You should create separate IAM users.  See [Best Practices for Managing AWS Access Keys](http://docs.aws.amazon.com/general/latest/gr/aws-access-keys-best-practices.html)
 for more information.
+
+<b> Step 3 </b> - Create New S3 Bucket
+* Create a new s3 bucket
 
 ## Resources
 
