@@ -15,6 +15,8 @@ You can use Amazon S3 buckets to host simple web applications that <b>do not req
 * ArcGIS.com Account
 * Amazon AWS Account
 
+## Setup geoform template application locally on your development machine
+
 ### Step 1 - Clone geoform-template-js Web Application from Esri's Github site.
 
 
