@@ -17,6 +17,7 @@ This tutorial will walk you through the steps necessary to set up and deploy a E
 
 * ArcGIS.com Account
 * Amazon AWS Account
+* Amazon S3 File Managment application such as [S3CMD](https://github.com/s3tools/s3cmd) if on Mac/Linux or [S3 Browser](http://s3browser.com/) if on Windows.
 
 ## Setup development environment
 
