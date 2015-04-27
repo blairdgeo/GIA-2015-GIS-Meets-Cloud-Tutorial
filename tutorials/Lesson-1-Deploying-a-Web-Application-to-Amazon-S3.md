@@ -27,7 +27,7 @@ For the purpose of this tutorial we will be using Esri's [geoform-template appli
 
 <b> Step 1 </b> - Follow the instructions outlined in the [deployment](https://github.com/Esri/geoform-template-js#deploying) section of the geoform-template-application to setup your local environment.
 
-<b> Step 2 </b> - Clone [geoform-template-js](https://github.com/Esri/geoform-template-js) Web Application from [Esri's Github site](https://github.com/Esri).
+<b> Step 2 </b> - Log into the Amazon EC2 Management Console.
 
 <p>Clone the application to your local working folder.</p>
 
