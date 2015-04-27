@@ -17,11 +17,13 @@ You can use Amazon S3 buckets to host simple web applications that <b>do not req
 
 ## Setup development environment
 
+[New to Github? Get started here.](https://github.com/)
+
 For the purpose of this tutorial we will be using Esri's geoform-template application.  The GeoForm is a configurable template for form based data editing of a Feature Service.  The application is built for a mobile first approach.
 
 ### Step 1 - Clone [geoform-template-js](https://github.com/Esri/geoform-template-js) Web Application from [Esri's Github site](https://github.com/Esri).
 
-<p>Clone the application to your local working folder.  [New to Github? Get started here.](https://github.com/)</p>
+<p>Clone the application to your local working folder.</p>
 
 <pre><code>git clone https://github.com/Esri/geoform-template-js.git
 </code></pre>
