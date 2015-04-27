@@ -22,15 +22,9 @@ This tutorial will walk you through the steps necessary to set up and deploy a E
 
 [New to Github? Get started here.](https://github.com/)
 
-For the purpose of this tutorial we will be using Esri's geoform-template application.  The GeoForm is a configurable template for form based data editing of a Feature Service.  The application is built for a mobile first approach.
+For the purpose of this tutorial we will be using Esri's [geoform-template application](https://github.com/Esri/geoform-template-js).  The [GeoForm](https://github.com/Esri/geoform-template-js) is a configurable template for form based data editing of a Feature Service.  The application is built for a mobile first approach.
 
 <b> Step 1 </b> - Follow the instructions outlined in the [deployment](https://github.com/Esri/geoform-template-js#deploying) section of the geoform-template-application to setup your local environment.
-
-<p>Clone the application to your local working folder.</p>
-
-<pre><code>git clone https://github.com/Esri/geoform-template-js.git
-</code></pre>
-
 
 <b> Step 2 </b> - Clone [geoform-template-js](https://github.com/Esri/geoform-template-js) Web Application from [Esri's Github site](https://github.com/Esri).
 
