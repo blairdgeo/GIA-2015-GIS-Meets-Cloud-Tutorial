@@ -28,4 +28,5 @@ For the purpose of this tutorial we will be using Esri's geoform-template applic
 
 * https://aws.amazon.com/articles/Amazon-S3/5050
 * https://github.com/Esri/geodev-hackerlabs
+* http://blogs.esri.com/esri/arcgis/2014/09/25/the-geoform-graduates/
 
