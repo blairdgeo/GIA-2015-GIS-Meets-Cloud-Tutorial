@@ -29,6 +29,13 @@ For the purpose of this tutorial we will be using Esri's geoform-template applic
 </code></pre>
 
 
+<b> Step 2 </b> - Clone [geoform-template-js](https://github.com/Esri/geoform-template-js) Web Application from [Esri's Github site](https://github.com/Esri).
+
+<p>Clone the application to your local working folder.</p>
+
+<pre><code>git clone https://github.com/Esri/geoform-template-js.git
+</code></pre>
+
 ## Resources
 
 * https://aws.amazon.com/articles/Amazon-S3/5050
