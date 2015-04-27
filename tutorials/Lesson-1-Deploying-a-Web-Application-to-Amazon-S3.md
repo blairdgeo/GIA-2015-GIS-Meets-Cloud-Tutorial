@@ -23,4 +23,5 @@ You can use Amazon S3 buckets to host simple web applications that <b>do not req
 ## Resources
 
 * https://aws.amazon.com/articles/Amazon-S3/5050
+* https://github.com/Esri/geodev-hackerlabs
 
