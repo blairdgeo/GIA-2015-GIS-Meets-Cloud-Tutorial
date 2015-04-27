@@ -10,7 +10,10 @@ You can use Amazon S3 buckets to host simple web applications that <b>do not req
 * Security
 * Load Balancing
 
+## Pre-requisites
 
+* ArcGIS.com Account
+* Amazon AWS Account
 
 
 ## Resources
